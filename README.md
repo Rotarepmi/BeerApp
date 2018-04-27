@@ -1,6 +1,4 @@
-# FindYourBeer
-
-## https://find-your-beer.herokuapp.com/
+# [FindYourBeer](https://find-your-beer.herokuapp.com/)
 
 ## Author: Jakub Mandra
 
